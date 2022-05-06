@@ -1,0 +1,14 @@
+body{
+    /* font-family: 'Public Sans', sans-serif; */
+}
+button[class="btn btn-outline-primary"] a {
+    text-decoration: none;
+}
+
+button[class="btn btn-outline-primary"] a:hover {
+    color:white;
+}
+
+button[class="btn btn-outline-primary"]:hover {
+    color:white;
+}
