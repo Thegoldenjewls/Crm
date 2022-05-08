@@ -1,0 +1,19 @@
+body{
+    /* font-family: 'Public Sans', sans-serif; */
+}
+
+.img {
+    position: relative;
+    max-width: 25%;
+    height:auto;
+}
+.green-button a{
+    background-color: limegreen;
+    border-color: limegreen;
+    color:white;
+}
+
+.foot-text {
+    font-size: 12px;
+    color: white;
+}
